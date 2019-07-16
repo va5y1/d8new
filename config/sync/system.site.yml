@@ -1,0 +1,14 @@
+uuid: 342c3978-615b-4042-8a15-0550fdbc32d1
+name: d8
+mail: ny@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
